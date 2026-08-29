@@ -45,9 +45,6 @@ Building innovative products from idea to deployment as an <b>Independent Develo
 | **[Derma-Guide-AI](https://github.com/agnish-dev/Derma-Guide-AI)** | Advanced AI-powered dermatological diagnostic platform featuring a dual-model architecture for instant skin health analysis. | TypeScript, AI |
 | **[GestureFlow-Game](https://github.com/agnish-dev/GestureFlow-Game)** | CV-powered endless runner inspired by Subway Surfers, controlled entirely through real-time hand gestures. | Python, Computer Vision |
 | **[SonicView](https://github.com/agnish-dev/SonicView)** | Computational music intelligence platform that extracts acoustic signatures, builds Music DNA embeddings, and drives similarity-based discovery. | HTML, Vector Search |
-| **[HackOrbit Portal](https://github.com/agnish-dev/HackOrbit-University-Hackathon-Portal)** | Official Registration Portal & Live Developer Command Tower for VIT University. Built with top-level OWASP security. | JavaScript, HTML5, CSS3 |
-| **[Student Tracker](https://github.com/agnish-dev/Student-Task-and-Productivity-Tracker)** | Task and Productivity Tracker for students. | Java |
-| **[Pokemon Dashboard](https://github.com/agnish-dev/Pokemon-Dashboard)** | Pure frontend page showing animations of different pokemons. | CSS |
 
 ---
 
