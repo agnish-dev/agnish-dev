@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20I'm%20Agnish&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
 </div>
 
@@ -41,28 +41,15 @@ Building innovative products from idea to deployment as an <b>Independent Develo
 
 | 🏆 Project | 📜 Description | 💻 Tech |
 | :--- | :--- | :--- |
-| **[Derma-Guide-AI](https://github.com/agnish-dev/Derma-Guide-AI)** | Advanced AI-powered dermatological diagnostic platform featuring a dual-model architecture for instant skin health analysis. | `TypeScript`, `AI` |
-| **[GestureFlow-Game](https://github.com/agnish-dev/GestureFlow-Game)** | CV-powered endless runner inspired by Subway Surfers, controlled entirely through real-time hand gestures. | `Python`, `Computer Vision` |
-| **[SonicView](https://github.com/agnish-dev/SonicView)** | Computational music intelligence platform that extracts acoustic signatures, builds Music DNA embeddings, and drives similarity-based discovery. | `HTML`, `Vector Search` |
-| **[HackOrbit Portal](https://github.com/agnish-dev/HackOrbit-University-Hackathon-Portal)** | Official Registration Portal & Live Developer Command Tower for VIT University. Built with top-level OWASP security. | `JavaScript`, `HTML5`, `CSS3` |
-| **[Student Tracker](https://github.com/agnish-dev/Student-Task-and-Productivity-Tracker)** | Task and Productivity Tracker for students. | `Java` |
-| **[Pokemon Dashboard](https://github.com/agnish-dev/Pokemon-Dashboard)** | Pure frontend page showing animations of different pokemons. | `CSS` |
+| **[Derma-Guide-AI](https://github.com/agnish-dev/Derma-Guide-AI)** | Advanced AI-powered dermatological diagnostic platform featuring a dual-model architecture for instant skin health analysis. | TypeScript, AI |
+| **[GestureFlow-Game](https://github.com/agnish-dev/GestureFlow-Game)** | CV-powered endless runner inspired by Subway Surfers, controlled entirely through real-time hand gestures. | Python, Computer Vision |
+| **[SonicView](https://github.com/agnish-dev/SonicView)** | Computational music intelligence platform that extracts acoustic signatures, builds Music DNA embeddings, and drives similarity-based discovery. | HTML, Vector Search |
+| **[HackOrbit Portal](https://github.com/agnish-dev/HackOrbit-University-Hackathon-Portal)** | Official Registration Portal & Live Developer Command Tower for VIT University. Built with top-level OWASP security. | JavaScript, HTML5, CSS3 |
+| **[Student Tracker](https://github.com/agnish-dev/Student-Task-and-Productivity-Tracker)** | Task and Productivity Tracker for students. | Java |
+| **[Pokemon Dashboard](https://github.com/agnish-dev/Pokemon-Dashboard)** | Pure frontend page showing animations of different pokemons. | CSS |
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agnish-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Agnish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agnish-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="Agnish's GitHub Streak" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnish-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
-</div>
-
-<br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer" />
 </div>
-
