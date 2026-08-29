@@ -20,10 +20,11 @@ Building innovative products from idea to deployment as an <b>Independent Develo
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently building **AI-driven applications and Full-Stack web platforms**
+- 🌍 I'm a passionate advocate for **Open Source**, actively contributing to projects and collaborating with the developer community
 - 🧠 I'm exploring **Computer Vision, Machine Learning, and advanced Web Architectures**
 - 💬 Ask me about **MERN Stack, Java, Data Structures & Algorithms**
 - 📫 How to reach me: You can contact me on [LinkedIn](https://www.linkedin.com/in/mondalagnish05/) or [Twitter](https://x.com/hey_agnish)!
-- ⚡ Fun fact: I love bringing ideas to life with seamless animations and intuitive UI/UX.
+- ⚡ Fun fact: I love bringing ideas to life with seamless animations and intuitive UI/UX
 
 ---
 
