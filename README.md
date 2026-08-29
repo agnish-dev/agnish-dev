@@ -65,3 +65,4 @@ Building innovative products from idea to deployment as an <b>Independent Develo
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer" />
 </div>
+
